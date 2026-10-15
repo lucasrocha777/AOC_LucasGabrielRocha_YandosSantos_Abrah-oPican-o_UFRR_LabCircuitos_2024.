@@ -26,7 +26,7 @@ O repositório é organizado da seguinte forma:
 
 ## Checklist dos Circuitos Implementados
 
-Abaixo estão os 17 circuitos implementados durante o trabalho. Cada item será marcado com um ✅ assim que o circuito correspondente for completado e testado.
+Abaixo estão os 17 circuitos implementados durante o trabalho.
 
 - [x] Circuito 1: [Registrador Flip-Flop do tipo D e do tipo JK]
 - [x] Circuito 2: [Multiplexador de quatro opções de entrada]
